@@ -5,3 +5,9 @@ explain why K2-Horizon is not KV-cache efficient, detailed memory estimation for
 --
 refer https://huggingface.co/openbmb/MiniCPM5-2B, get MiniCPM5 architecture and write to MiniCPM5/arch.md
 
+-- 
+refer https://huggingface.co/Agnes-AI/Agnes-3.0-Flash, get Agnes-3.0-Flash architecture and write to Agnes-3.0-Flash/arch.md
+
+analyze its KV cache efficiency and save to to Agnes-3.0-Flash/kv-cache.md
+
+--
