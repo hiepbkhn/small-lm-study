@@ -11,3 +11,9 @@ refer https://huggingface.co/Agnes-AI/Agnes-3.0-Flash, get Agnes-3.0-Flash archi
 analyze its KV cache efficiency and save to to Agnes-3.0-Flash/kv-cache.md
 
 --
+refer https://huggingface.co/Nanbeige/Nanbeige4.2-3B, get Nanbeige4.2-3B architecture and write to Nanbeige4.2/arch.md
+
+analyze its KV cache efficiency and save to to Nanbeige4.2/kv-cache.md
+
+-- 
+refer https://huggingface.co/XHToken/Spark-X2.5-4B, get Spark-X2.5-4B architecture and write to Spark-X2.5/arch.md
