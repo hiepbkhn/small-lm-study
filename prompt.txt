@@ -2,3 +2,6 @@ refer to https://huggingface.co/IFM/K2-Horizon-7B, get K2-Horizon architecture a
 
 explain why K2-Horizon is not KV-cache efficient, detailed memory estimation for different context lengths, save your findings to K2-Horizon/kv-cache.md
 
+--
+refer https://huggingface.co/openbmb/MiniCPM5-2B, get MiniCPM5 architecture and write to MiniCPM5/arch.md
+
